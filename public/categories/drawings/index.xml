@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drawings on AnatoMio</title>
+    <link>http://localhost:1313/categories/drawings/</link>
+    <description>Recent content in Drawings on AnatoMio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Feb 2017 12:57:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/drawings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bernardo, 16 februari 2017</title>
+      <link>http://localhost:1313/archive/2017-02-16-bernardo-d-addario/</link>
+      <pubDate>Thu, 16 Feb 2017 12:57:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/archive/2017-02-16-bernardo-d-addario/</guid>
+      <description>dualisme portrait with hand in front of face</description>
+    </item>
+    
+    <item>
+      <title>Alexandre, 18 november 2016</title>
+      <link>http://localhost:1313/archive/2016-11-18-alexandre-may/</link>
+      <pubDate>Fri, 18 Nov 2016 12:57:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/archive/2016-11-18-alexandre-may/</guid>
+      <description>I&amp;#39;m too sad to tell you sad portrait</description>
+    </item>
+    
+    <item>
+      <title>Dovydas, mei 2016</title>
+      <link>http://localhost:1313/archive/2016-06-00-dovydas-stimaitis/</link>
+      <pubDate>Tue, 31 May 2016 12:57:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/archive/2016-06-00-dovydas-stimaitis/</guid>
+      <description> sensing Dovydas standing with eyes closed, hearing silence, feeling breath and movements; sensing his body.
+ </description>
+    </item>
+    
+    <item>
+      <title>Nikos, 8 februari 2016</title>
+      <link>http://localhost:1313/archive/2016-02-08-nikos/</link>
+      <pubDate>Mon, 08 Feb 2016 12:57:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/archive/2016-02-08-nikos/</guid>
+      <description>Nikos Ligt</description>
+    </item>
+    
+    <item>
+      <title>Lino, mei 2015</title>
+      <link>http://localhost:1313/archive/2015-06-00-abelino-hernandez-gonzalez/</link>
+      <pubDate>Sun, 31 May 2015 12:57:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/archive/2015-06-00-abelino-hernandez-gonzalez/</guid>
+      <description>de Ander life size standing portrait of a naked man looking back
+  de Ander life size standing portrait of a naked man looking back</description>
+    </item>
+    
+    <item>
+      <title>Lino, 27 maart 2015</title>
+      <link>http://localhost:1313/archive/2015-03-27-abellino-hernandez-gonzalez/</link>
+      <pubDate>Fri, 27 Mar 2015 12:57:32 +0200</pubDate>
+      
+      <guid>http://localhost:1313/archive/2015-03-27-abellino-hernandez-gonzalez/</guid>
+      <description>portret van Lino dromerige blik
+  portrait of Lino dreamy look</description>
+    </item>
+    
+  </channel>
+</rss>

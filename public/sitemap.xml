@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/archive/2017-02-16-bernardo-d-addario/</loc>
+    <lastmod>2017-02-16T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2017-02-01-bernardo-d-addario/</loc>
+    <lastmod>2017-02-01T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2016-11-18-alexandre-may/</loc>
+    <lastmod>2016-11-18T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2016-icarus-daniel-delgado-atenas/</loc>
+    <lastmod>2016-10-17T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2016-09-23-martijn-brusche/</loc>
+    <lastmod>2016-09-23T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2016-06-10-lukas-karvelis/</loc>
+    <lastmod>2016-06-10T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2016-06-00-dovydas-stimaitis/</loc>
+    <lastmod>2016-05-31T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2016-02-08-nikos/</loc>
+    <lastmod>2016-02-08T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2015-06-00-abelino-hernandez-gonzalez/</loc>
+    <lastmod>2015-05-31T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/2015-03-27-abellino-hernandez-gonzalez/</loc>
+    <lastmod>2015-03-27T12:57:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/archive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/drawings/</loc>
+    <lastmod>2017-02-16T12:57:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/sculptures/</loc>
+    <lastmod>2016-10-17T12:57:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/sketches/</loc>
+    <lastmod>2017-02-01T12:57:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
