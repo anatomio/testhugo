@@ -1,7 +1,7 @@
 +++
 title= "Bernardo, 16 februari 2017"
 date= 2017-02-16T12:57:32+02:00
-albumthumb= "2017-02-16-bernardo/MIO9056.jpg"
+albumthumb= "/drawings/2017/02-16-bernardo/MIO9056.jpg"
 categories= ["Drawings"]
 +++
 

@@ -99,4 +99,11 @@ theme = "phugo"
     
     # Copyright
     [params.footer.copyright]
-    name = "AnatoMio.nl 2017"
+    name = "AnatoMio.nl 2018"
+	
+
+	[params.list]
+	# what to list in a list page? 
+	# - descendants = descendant regular content pages
+	# - children = child sections and pages
+	display = "descendants"

@@ -1,7 +1,7 @@
 +++
 title= "Nikos, 8 februari 2016"
 date= 2016-02-08T12:57:32+02:00
-albumthumb= "2016-02-08-nikos/MIO7324.jpg"
+albumthumb= "/drawings/2016-02-08-nikos/MIO7324.jpg"
 categories= ["Drawings"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title= "Lukas, 10 juni 2016"
 date= 2016-06-10T12:57:32+02:00
-albumthumb= "2016-06-10-lukas/20160618-_MIO8312.jpg"
+albumthumb= "/sketches/2016-06-10-lukas/20160618-_MIO8312.jpg"
 categories = ["Sketches"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title= "Martijn, 23 september 2016"
 date= 2016-09-23T12:57:32+02:00
-albumthumb= "2016-09-23-martijn/20160924-_MIO8442.jpg"
+albumthumb= "/sketches/2016-09-23-martijn/20160924-_MIO8442.jpg"
 categories= ["Sketches"]
 +++
 

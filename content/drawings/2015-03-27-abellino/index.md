@@ -1,7 +1,7 @@
 +++
 title= "Lino, 27 maart 2015"
 date= 2015-03-27T12:57:32+02:00
-albumthumb= "2015-03-27-abellino/20150406-081.jpg"
+albumthumb= "/drawings/2015-03-27-abellino/20150406-081.jpg"
 categories= ["Drawings"]
 +++
 

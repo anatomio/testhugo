@@ -1,7 +1,7 @@
 +++
 title= "Icarus (Daniel), 2016"
 date= 2016-10-17T12:57:32+02:00
-albumthumb= "2016-icarus-daniel/20161017-_MIO8600.jpg"
+albumthumb= "/2016-icarus-daniel/20161017-_MIO8600.jpg"
 categories= ["Sculptures"]
 +++
 

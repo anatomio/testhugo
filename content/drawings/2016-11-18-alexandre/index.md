@@ -1,7 +1,7 @@
 +++
 title= "Alexandre, 18 november 2016"
 date= 2016-11-18T12:57:32+02:00
-albumthumb= "2016-11-18-alexandre/20161120-_MIO8837-2.jpg"
+albumthumb= "/drawings/2016-11-18-alexandre/20161120-_MIO8837-2.jpg"
 categories= ["Drawings"]
 +++
 

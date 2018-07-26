@@ -1,7 +1,7 @@
 +++
 title= "Lino, mei 2015"
 date= 2015-05-31T12:57:32+02:00
-albumthumb= "2015-06-00-abelino/_MIO6685.jpg"
+albumthumb= "/drawings/2015-06-00-abelino/_MIO6685.jpg"
 categories= ["Drawings"]
 +++
 

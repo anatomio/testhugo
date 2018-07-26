@@ -1,7 +1,7 @@
 +++
 title= "Bernardo, 01 februari 2017"
 date= 2017-02-01T12:57:32+02:00
-albumthumb= "2017-02-01-bernardo/MIO8990.jpg"
+albumthumb= "/sketches/2017-02-01-bernardo/MIO8990.jpg"
 categories= ["Sketches"]
 +++
 
