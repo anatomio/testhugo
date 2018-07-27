@@ -1,8 +1,8 @@
 # Settings
 baseurl = "http://localhost:1313/"
 languageCode = "en-us"
-title = "AnatoMio"
-theme = "phugo"
+title = "Image Archive"
+theme = "image-archive"
 #googleAnalytics = "UA-XXXXXXX-Y"
 
 [taxonomies]
@@ -14,7 +14,7 @@ theme = "phugo"
     # Meta
     description = "Statische website in ontwikkeling"
     author = "Mio van der Lijn"
-    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+    keywords = "archive, hugo, photogallery, photoblog, hugo theme"
     
     # Headerbar links
     # Do not put here too many links,
@@ -100,10 +100,9 @@ theme = "phugo"
     # Copyright
     [params.footer.copyright]
     name = "AnatoMio.nl 2018"
-	
 
 	[params.list]
 	# what to list in a list page? 
-	# - descendants = descendant regular content pages
+	# - descendants = descendant regular content pages (default)
 	# - children = child sections and pages
 	display = "descendants"
