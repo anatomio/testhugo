@@ -4,7 +4,6 @@ date= 2018-01-01
 albumthumb= "/dir-rest/post-rest/grid3.jpg"
 categories= ["photos"]
 +++
-
 {{< photo full="becca-lavin-567475-unsplash_1200.jpg" thumb="becca-lavin-567475-unsplash_400.jpg" alt="alt. text" description="description" phototitle="photo title">}}
 {{< photo full="cassi-josh-644012-unsplash_1200.jpg" thumb="cassi-josh-644012-unsplash_400.jpg" alt="alt. text" description="description" phototitle="photo title">}}
 {{< photo full="chuttersnap-549879-unsplash_1200.jpg" thumb="chuttersnap-549879-unsplash_400.jpg" alt="alt. text" description="description" phototitle="photo title">}}
@@ -16,7 +15,7 @@ categories= ["photos"]
 {{< photo full="hadis-safari-482718-unsplash_1200.jpg" thumb="hadis-safari-482718-unsplash_400.jpg">}}
 {{< photo full="jake-davies-252800-unsplash_1200.jpg" thumb="jake-davies-252800-unsplash_400.jpg">}}
 {{< photo full="javardh-603530-unsplash_1200.jpg" thumb="javardh-603530-unsplash_400.jpg">}}
-{{< photo full="jc-gellidon-341849-unsplash_1200.jpg" thumb="cjc-gellidon-341849-unsplash_400.jpg">}}
+{{< photo full="jc-gellidon-341849-unsplash_1200.jpg" thumb="jc-gellidon-341849-unsplash_400.jpg">}}
 {{< photo full="jessi-pena-565738-unsplash_1200.jpg" thumb="jessi-pena-565738-unsplash_400.jpg">}}
 {{< photo full="jonas-verstuyft-352713-unsplash_1200.jpg" thumb="jonas-verstuyft-352713-unsplash_400.jpg">}}
 {{< photo full="joshua-rawson-harris-668614-unsplash_1200.jpg" thumb="joshua-rawson-harris-668614-unsplash_400.jpg">}}
@@ -46,7 +45,3 @@ categories= ["photos"]
 {{< photo full="toa-heftiba-667303-unsplash_1200.jpg" thumb="toa-heftiba-667303-unsplash_400.jpg">}}
 {{< photo full="tom-parkes-417837-unsplash_1200.jpg" thumb="tom-parkes-417837-unsplash_400.jpg">}}
 {{< photo full="toufique-alam-646666-unsplash_1200.jpg" thumb="toufique-alam-646666-unsplash_400.jpg">}}
-
-
-
-

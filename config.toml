@@ -106,3 +106,5 @@ theme = "image-archive"
 	# - descendants = descendant regular content pages (default)
 	# - children = child sections and pages
 	display = "descendants"
+	
+	# TODO: add more order options for list pages

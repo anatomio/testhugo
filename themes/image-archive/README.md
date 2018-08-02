@@ -4,7 +4,8 @@
 
 ## Screenshot
 
-TODO ![Orbit screenshot](https://raw.githubusercontent.com/anatomio/image-archive/master/images/screenshot.png)
+# TODO: fork phugo on github and change url's below (AND in theme.toml)
+# TODO: change url:  ![Orbit screenshot](https://raw.githubusercontent.com/anatomio/image-archive/master/images/screenshot.png)
 
 ## Features
 
@@ -25,7 +26,7 @@ TODO ![Orbit screenshot](https://raw.githubusercontent.com/anatomio/image-archiv
 
 ## Demo
 
-TODO You can see it in action on [Hugo Themes site](http://themes.gohugo.io/theme/phugo/).
+# TODO: change url: You can see it in action on [Hugo Themes site](http://themes.gohugo.io/theme/phugo/).
 
 ## Contents
 
@@ -45,10 +46,10 @@ TODO You can see it in action on [Hugo Themes site](http://themes.gohugo.io/them
 - Install Image Archive. Inside your new Hugo project run:
 
 ```
-TODO $ git clone https://github.com/anatomio/image-archive themes/image-archive
+$ git clone https://github.com/anatomio/image-archive themes/image-archive
 ```
 
-TODO - Take a look inside the [`exampleSite`](//github.com/aerohub/phugo/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/aerohub/phugo/blob/master/exampleSite/config.toml). Copy the `config.toml` into the root folder of your Hugo site.
+# TODO: change url:  - Take a look inside the [`exampleSite`](//github.com/aerohub/phugo/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/aerohub/phugo/blob/master/exampleSite/config.toml). Copy the `config.toml` into the root folder of your Hugo site.
 
 ## Configuration
 
@@ -100,9 +101,17 @@ You'll find your resume files in `public` folder in the root of Hugo project.
 - [ ] Pagination support
 - [ ] Translation support
 
+
+# TODO: add Pagination support
+# TODO: add Translation support
+# TODO: add css masonry option instead of grid
+# TODO: add hugo-easy-gallery,
+# TODO: add cover-flow image caroussel 
+
+
 ## Contributing
 
-TODO Did you found a bug or got an idea? Feel free to use the [issue tracker](//github.com/anatomio/image-archive/issues).
+# TODO: change url: Did you found a bug or got an idea? Feel free to use the [issue tracker](//github.com/anatomio/image-archive/issues).
 
 ## License
 
