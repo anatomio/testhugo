@@ -5,18 +5,16 @@
 			{{- . -}}
 		</section>
 	{{ end }}
-		<section class="masonry gallery" >
+		<section class="masonry-gallery">
 		{{/* if configured to display only child folders and pages */}}
 		{{ if  eq $.Site.Params.list.display "children"  }}
 
 			{{ $sections := (.Site.GetPage "section" .Section).Sections }}
 			{{ range $sections }} {{/* display folders first */}}
-				<div class="masonry-panel">
-					<figure class="masonry-panel__content">
-						<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
-						<h2>{{ .Title }}</h2>
-					</figure>
-				</div>
+				<figure class="masonry-panel">
+					<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
+					<h2>{{ .Title }}</h2>
+				</figure>
 			{{ end }}
 
 			{{ if .IsHome }}
@@ -24,33 +22,27 @@
 				{{ range .Pages.ByDate.Reverse }}
 					{{/* don't display all descendant pages */}}
 					{{ if eq .CurrentSection $pageSection  }}
-					<div class="masonry-panel">
-						<figure class="masonry-panel__content">
-								<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
-								<h2>{{ .Title }}</h2>
+						<figure class="masonry-panel">
+							<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
+							<figcaption>{{ .Title }}</figcaption>
 						</figure>
-					</div>
 					{{ end }}
 				{{ end }}
 			{{ else }}
 				{{ range .Pages.ByDate.Reverse }}
-					<div class="masonry-panel">
-						<figure class="masonry-panel__content">
-							<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
-							<h2>{{ .Title }}</h2>
-						</figure>
-					</div>
+					<figure class="masonry-panel">
+						<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
+						<figcaption>{{ .Title }}</figcaption>
+					</figure>
 				{{ end }}
 			{{ end }}
 
 		{{ else }} {{/* default */}}
 				{{ range .Pages.ByDate.Reverse }}
-					<div class="masonry-panel">
-						<figure class="masonry-panel__content">
-							<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
-							<h2>{{ .Title }}</h2>
-						</figure>
-					</div>
+					<figure class="masonry-panel">
+						<a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" class="loading" /></a>
+						<figcaption>{{ .Title }}</figcaption>
+					</figure>
 				{{ end }}
 		{{ end }}
 		</section>

@@ -57,12 +57,12 @@ em, i { font-style: italic; }
 
 p { margin: 0 0 2em 0; }
 
-h1, h2, h3, h4, h5, h6 { color: #ffffff; font-weight: 300; letter-spacing: 0.1em; line-height: 1.5; margin: 0 0 1em 0; text-transform: uppercase; }
+h1, h2, h3, h4, h5, h6, figcaption { color: #ffffff; font-weight: 300; letter-spacing: 0.1em; line-height: 1.5; margin: 0 0 1em 0; text-transform: uppercase; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; text-decoration: none; }
 
 h1 { font-size: 2em; }
 
-h2 { font-size: 1.25em; }
+h2, figcaption { font-size: 1.25em; }
 
 h3 { font-size: 1.1em; }
 
@@ -382,47 +382,60 @@ pinterest
 min 520, 780, 1040, 1300 , 1560
 */
 
-.masonry {
-  display: flex;
-  flex-flow: column wrap;
-  max-width: 100%;
+/* tbv jquery-masonry */
+
+#main.list{
+	max-width: 1280px;
+	margin: 0 auto;
+	
 }
-.masonry-panel {
-  overflow: hidden;
-  max-height: 100vh;
-  transition: all 0.25s ease 0s;
+.masonry-gallery{
+	width: 310px;
+	margin: 0 auto;
 }
-.masonry-panel img {
-  width: 100%;
-  max-height: 500px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-.masonry-panel img.loading {
-  background: linear-gradient(90deg, #fff, #808080, #fff);
-  background-size: 500% 100%;
-  -webkit-animation: load 3s infinite linear;
-          animation: load 3s infinite linear;
-  margin: 4px 4px 0 4px;
-  min-height: 250px;
-}
-@-webkit-keyframes load {
-  from {
-    background-position: 500% 0;
-  }
-  to {
-    background-position: 0 0;
-  }
-}
-@keyframes load {
-  from {
-    background-position: 500% 0;
-  }
-  to {
-    background-position: 0 0;
-  }
+.masonry-panel { 
+	width: 310px;
 }
 
+@media only screen and ( min-width: 640px ) 
+{
+    .masonry-gallery
+    {
+        width: 630px;
+    }
+}
+@media only screen and ( min-width: 960px )
+{
+    .masonry-gallery
+    {
+        width: 950px;
+    }
+}
+@media only screen and ( min-width: 1280px )
+{
+    .masonry-gallery
+    {
+        width: 1270px;
+    }
+}
+	
+.masonry-panel > a{
+ 	border: 0;
+}
+.masonry-panel img { 
+	width: 310px; 
+	margin-bottom: 4px; /* should be 10px, because of gutter:10, but correcting for absolute positioned caption */
+	border-radius:10px;
+}
+.masonry-panel > figcaption { 
+	-moz-pointer-events: none; -webkit-pointer-events: none; -ms-pointer-events: none; pointer-events: none; 
+	bottom: 30px;
+	font-size: 0.8em; 
+	left: 30px;
+	margin: 0; 
+	position: absolute; 
+	z-index: 1; 
+}
 
 /* Footer */
 #footer .copyright { color: #505051; font-size: 0.9em; }
