@@ -1,14 +1,13 @@
 # Settings
 baseurl = "http://localhost:1313/"
 languageCode = "en-us"
-title = "Image Archive"
+title = "Phugo Image Archive"
 theme = "image-archive"
 #googleAnalytics = "UA-XXXXXXX-Y"
 
 [taxonomies]
     tag = "tags"
     category = "categories"
-
 [params]
 
     # Meta
