@@ -1,19 +1,18 @@
 # Settings
-baseurl = "https://anatomio.github.io/"
+baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Hugo Image Archive Theme"
 theme = "hugo-image-archive-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+#googleAnalytics = "UA-XXXXXXX-Y"
 
 [taxonomies]
     tag = "tags"
     category = "categories"
-
 [params]
 
     # Meta
-    description = "Hugo Image Archive Theme - a collection of image archives"
-    author = "your name"
+    description = "Statische website in ontwikkeling"
+    author = "Mio van der Lijn"
     keywords = "archive, hugo, photogallery, photoblog, hugo theme"
     
     # Headerbar links
@@ -99,10 +98,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
     
     # Copyright
     [params.footer.copyright]
-    name = "Your name"
-	
+    name = "AnatoMio.nl 2018"
+
 	[params.list]
 	# what to list in a list page? 
 	# - descendants = descendant regular content pages (default)
 	# - children = child sections and pages
 	display = "descendants"
+	
+	# TODO: add more order options for list pages
